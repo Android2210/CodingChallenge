@@ -1,0 +1,64 @@
+body{
+   background-image: url(https://st3.depositphotos.com/1003814/18574/i/1600/depositphotos_185749910-stock-photo-healthy-lifestyle-people-riding-bicycles.jpg);
+   background-size: auto;
+}
+.rep{
+  background-color:black;
+  opacity: 0.8;
+  margin-left:250px;
+  margin-right:250px;
+}
+.bonzai{
+  width: 300px;
+  height: 100px;
+}
+.broccolo{
+   color:#21eb1f;
+}
+.master{
+  background-color: none;
+  width: auto;
+  height: auto;
+  border
+}
+.button{
+  display: inline-flex;
+  width: 1500px;
+  justify-content: center;
+  margin: center;
+  background-color:#21eb1f ;
+  height: 50px;
+}
+  .PRIMOBOTTONE {
+    float:center;
+    justify-content: center;
+    margin: center;
+    color: white;
+}
+#rer{
+  background-color: red;
+  margin-left: 0px;
+  border-color: red;
+  width: 100px;
+  height: 20px;
+}
+#req{
+  background-color:#21eb1f ;
+  width: 400px;
+  height: 20px;
+  margin-left: 0px;
+  border-color:#21eb1f ;
+
+}
+#ref{
+  background-color:yellow;
+  width: 300px;
+  height: 20px;
+  margin-left: 0px;
+  border-color: yellow;
+
+}
+#tre{
+  width: 25px;
+  height: 25px;
+}
